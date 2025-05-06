@@ -1,5 +1,10 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+# Ex. No. 5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+
+**Name : Tharun Sridhar**
+
+**Reg No : 212223230230**
+
+### DATE: 24/04/2025
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -60,8 +65,7 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![image](https://github.com/user-attachments/assets/07fd4834-39b7-4086-91c9-20a29239e892)
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
